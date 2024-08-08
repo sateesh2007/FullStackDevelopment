@@ -1,0 +1,83 @@
+
+
+body{
+    background-image: url('images/bg.jpg');
+    height: auto;
+    width: 100%;
+    background-size: cover;
+    }
+    button{
+    background-color: orange;
+    border-radius: 20px;
+    color: white;
+    width: 130px;
+    height: 50px;
+    }
+    h1{
+    font-size: 300px;
+    font-family: "mochiy pop One",sans-serif;
+
+    }
+    .a{
+    float: left;
+    padding-top: 100px;
+    margin-left: 80px;
+     
+    }
+    .aa{
+    background-color: rgb(241, 10, 10); 
+    color:orange;
+    font-size: 20px;
+    width: 200px;
+    border-radius: 25px;
+    font-weight: bolder;
+    }
+    .b{
+    float: right;
+    margin: 70px;
+    }
+    table{
+    width: 300px;
+    height: 380px;
+    background-color:rgb(3, 32, 60);
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    opacity: 0.6;
+    }
+    input{
+    background-color:grey;
+    border:none;
+    width: 200px;
+    border-radius: 25px;
+    }
+    ::placeholder{
+    color:white;
+    
+    }
+    #b1{
+        border-radius: 30px;
+    }
+    #b2{
+        width: 180px;
+        border-radius: 30px;
+        background-color: rgb(128, 238, 11);
+        color: black;
+
+    }
+    p{
+       padding-top: 40px;
+       color: white;
+       font-size: larger;
+    
+ 
+    }
+    input[type="text"],
+    input[type="password"]
+    {
+        
+            border: none;
+            background: none;
+            border-bottom: 1px solid rgb(23, 168, 205);
+    }

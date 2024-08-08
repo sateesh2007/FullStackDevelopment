@@ -1,0 +1,23 @@
+.container{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+.one{
+    width: 1000px;
+    height: 200px;
+}
+.two{
+    width: 30%;
+    height: 400px;
+    background-color: aquamarine;
+    float: left;
+}
+.three{
+    width: 70%;
+    height: 400px;
+    background-color: rgb(62, 64, 63);
+    float: left;
+}
+
+

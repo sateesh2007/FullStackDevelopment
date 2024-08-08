@@ -1,0 +1,20 @@
+h1{
+    color: black;
+    background-color: rgb(139, 198, 244);
+    text-align: center;
+    
+}
+
+table{
+    background-color: rgb(255, 60, 0);
+    width: 500px;
+    height: 190px;
+    border: 20px;
+    font-size: 30PX;
+    border-color: black;
+
+    
+}
+tr{
+    color: greenyellow;
+}
